@@ -295,6 +295,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [SumaniqueCode](https://github.com/SumaniqueCode)
 
 [![Twitter](https://img.shields.io/twitter/follow/SumaniqueCode?style=social)](https://twitter.com/SumaniqueCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/SumaniqueCode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suman-regmi-0b2440244/)
 
 </div>
