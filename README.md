@@ -1,11 +1,16 @@
 # Dart Programming: Basic to Advanced
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="120"/>
-<div align="center" >
-[![Dart Version](https://img.shields.io/badge/Dart-3.0+-00B4AB.svg)](https://dart.dev)
 
-**A comprehensive journey from fundamentals to mastery**
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="120"/>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Dart-3.0+-00B4AB.svg" alt="Dart Version">
+  </a>
+</p>
+
+<p align="center"><strong>A comprehensive journey from fundamentals to mastery</strong></p>
 
 ## 🚀 Overview
 
