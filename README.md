@@ -2,11 +2,8 @@
 
 <div align="center">
   
-![Dart Logo](https://dart.dev/assets/img/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee96a0035e8e1d605b6e7d7bd723eb282039f433.svg)
+![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/SumaniqueCode/dart-programming?style=social)](https://github.com/SumaniqueCode/dart-programming/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SumaniqueCode/dart-programming?style=social)](https://github.com/SumaniqueCode/dart-programming/network/members)
-[![GitHub license](https://img.shields.io/github/license/SumaniqueCode/dart-programming)](https://github.com/SumaniqueCode/dart-programming/blob/main/LICENSE)
 [![Dart Version](https://img.shields.io/badge/Dart-3.0+-00B4AB.svg)](https://dart.dev)
 
 **A comprehensive journey from fundamentals to mastery**
