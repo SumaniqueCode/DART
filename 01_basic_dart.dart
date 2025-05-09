@@ -34,4 +34,5 @@ main(){ //main class is compulsory
     print(number);
     print(decimal);
     print(isTrue);
+    print(name1);
 }
