@@ -13,11 +13,6 @@ void main() {
     print('Enter second number:');
     double? num2 = double.parse(stdin.readLineSync()!);
 
-    if (num1 == null || num2 == null) {
-      print('Invalid input. Please enter valid numbers.');
-      return;
-    }
-
     print('\nSelect operation:\n 1. Addition (+)\n 2. Subtraction (-)\n 3. Multiplication (*)\n 4. Division (/)');
 
     String? operation = stdin.readLineSync();
