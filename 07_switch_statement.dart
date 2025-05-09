@@ -8,10 +8,10 @@ void main() {
   String? choice;
   do {
     print('\nEnter first number:');
-    double? num1 = double.tryParse(stdin.readLineSync()!);
+    double? num1 = double.parse(stdin.readLineSync()!);
 
     print('Enter second number:');
-    double? num2 = double.tryParse(stdin.readLineSync()!);
+    double? num2 = double.parse(stdin.readLineSync()!);
 
     if (num1 == null || num2 == null) {
       print('Invalid input. Please enter valid numbers.');
