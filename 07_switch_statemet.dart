@@ -49,5 +49,5 @@ void main() {
     print("\nEnter 'y' or 'Y' to continue, any other key to exit:");
     choice = stdin.readLineSync();
   } while (choice == 'y' || choice == 'Y');
-  print('===== End of Program =====');
+  print('===== Program Exitted =====');
 }
