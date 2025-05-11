@@ -1,9 +1,6 @@
 // Created by Suman Regmi
 // Date: 2025/04/11
 
-// Created by Suman Regmi
-// Date: 2025/04/06
-
 class Student {
   String name = '';
   int age = 0;
